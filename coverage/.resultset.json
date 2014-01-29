@@ -25,6 +25,50 @@
         1,
         null
       ],
+      "/Users/Tanuj/Documents/Spring2014/67-373/lab7/choretracker/app/models/chore.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/Tanuj/Documents/Spring2014/67-373/lab7/choretracker/app/models/child.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/Tanuj/Documents/Spring2014/67-373/lab7/choretracker/app/models/task.rb": [
         1,
         1,
@@ -36,14 +80,8 @@
         1,
         1,
         null
-      ],
-      "/Users/Tanuj/Documents/Spring2014/67-373/lab7/choretracker/app/models/chore.rb": [
-        1,
-        1,
-        null,
-        null
       ]
     },
-    "timestamp": 1390977578
+    "timestamp": 1390978778
   }
 }
