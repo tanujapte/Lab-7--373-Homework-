@@ -2,8 +2,7 @@ class ChoresController < ApplicationController
   before_filter :login_required, :except => :index 
 
   def index
-    @chores = Chore.all
-  end
+    @chores = Chore.chronological.by_task.all  end
 
   def show
     @chore = Chore.find(params[:id])
